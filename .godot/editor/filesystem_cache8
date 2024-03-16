@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710609472
+icon.svg::CompressedTexture2D::6774193607106284339::1710608120::1710608127::1::::<><>::
+sprite_2d.tscn::PackedScene::3101003259051997053::1710609431::0::1::::<><>::uid://itvflakj5rcl::::res://tanque.png<>res://Sprite2D.gd
+Sprite2D.gd::GDScript::-1::1710609336::0::1::::<>Sprite2D<>::
+tanque.png::CompressedTexture2D::602018490473446739::1710609385::1710609423::1::::<><>::
+tanque_player.png::CompressedTexture2D::5210615912553284462::1710609450::1710609475::1::::<><>::
